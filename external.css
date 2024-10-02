@@ -1,6 +1,7 @@
 /* professor images 'shortcodes' (alphabetical)*/
 
 #BUV .buv-image { background-image: url('https://library.buv.edu.vn/wp-content/uploads/canvas/BUV.jpg'); }
+#BUV .pink { background: pink; }
 #BUV .adrian-w-image { background-image: url('https://www.buv.edu.vn/wp-content/uploads/2022/05/Adrian-Weng-scaled.jpg'); }
 #BUV .aiman-a-image { background-image: url('https://www.buv.edu.vn/wp-content/uploads/2021/12/Aiman.jpg'); }
 #BUV .aiwa-r-image { background-image: url('https://library.buv.edu.vn/wp-content/uploads/canvas/aiwa.jpg'); }
